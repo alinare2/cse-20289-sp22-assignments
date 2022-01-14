@@ -2,8 +2,8 @@
 
 This is the [CSE-20289-SP22] reading and homework assignments repository for:
 
-* **Name**:  Domer McDomerson
-* **NetID**: dmcdomer
+* **Name**:  Andrew Linares
+* **NetID**: alinare2
 
 ## Readings
 
